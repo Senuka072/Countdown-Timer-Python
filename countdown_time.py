@@ -10,4 +10,5 @@ while n:
     print(timer, end="\r")
     time.sleep(1)
     n -= 1
+
 print("Time's up")
